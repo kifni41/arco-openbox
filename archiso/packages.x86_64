@@ -274,9 +274,9 @@ ttf-ubuntu-font-family
 #i3blocks
 
 #icons
-arc-icon-theme
-gnome-icon-theme
-papirus-icon-theme
+#arc-icon-theme
+#gnome-icon-theme
+#papirus-icon-theme
 
 #lightdm
 accountsservice
@@ -297,11 +297,11 @@ openbox
 gtk-engine-murrine
 
 #themes
-adapta-gtk-theme
+#adapta-gtk-theme
 arc-gtk-theme
 kvantum-qt5
 kvantum-theme-arc
-numix-gtk-theme
+#numix-gtk-theme
 
 #utilities
 arandr
@@ -395,9 +395,9 @@ vivaldi
 vivaldi-codecs-ffmpeg-extra-bin
 
 #cursors
-breeze-cursors-lh
-breeze-obsidian-cursor-theme
-oxy-neon
+#breeze-cursors-lh
+#breeze-obsidian-cursor-theme
+#oxy-neon
 xcursor-breeze
 xcursor-vanilla-dmz-aa
 
@@ -409,16 +409,16 @@ ttf-ms-fonts
 #i3-gaps-next-git
 
 #icons
-faba-icon-theme
-halo-icons-git
-moka-icon-theme
-numix-circle-arc-icons-git
-numix-icon-theme-git
-numix-circle-icon-theme-git
-paper-icon-theme
+#faba-icon-theme
+#halo-icons-git
+#moka-icon-theme
+#numix-circle-arc-icons-git
+#numix-icon-theme-git
+#numix-circle-icon-theme-git
+#paper-icon-theme
 sardi-icons
-surfn-icons-git
-zafiro-icon-theme
+#surfn-icons-git
+#zafiro-icon-theme
 
 #network
 #b43-firmware
@@ -566,7 +566,7 @@ xfwm4
 #mousepad
 #orage
 #parole
-ristretto
+#ristretto
 xfburn
 #xfce4-artwork
 #xfce4-battery-plugin
@@ -625,3 +625,9 @@ docker
 mysql-workbench
 terminator
 transmission-gtk
+sublime-text
+google-chrome
+gitk
+spotify
+mpv
+synapse
