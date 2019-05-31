@@ -54,7 +54,10 @@ echo "Deleting the work folder if one exists"
 echo "Deleting the build folder if one exists - takes some time"
 [ -d ~/arcolinuxb-build ] && sudo rm -rf ~/arcolinuxb-build
 echo "Git cloning files and folder to work folder"
-git clone https://github.com/arcolinux/arcolinux-iso ../work
+#git clone https://github.com/arcolinux/arcolinux-iso ../work
+#use my fork version
+git clone https://github.com/kifni41/arcolinux-iso ../work
+
 
 echo
 echo "################################################################## "
