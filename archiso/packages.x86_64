@@ -223,8 +223,8 @@ compton
 #darktable
 #deadbeef
 dmenu
-evolution
-feh
+#evolution
+#feh
 firefox
 #flashplugin
 galculator
@@ -235,15 +235,15 @@ gsimplecal
 guvcview
 imagemagick
 inkscape
-#libreoffice-fresh
+libreoffice-fresh
 meld
 nitrogen
 numlockx
 pragha
-qbittorrent
+#qbittorrent
 scrot
 simplescreenrecorder
-termite
+#termite
 tint2
 variety
 vlc
@@ -316,7 +316,7 @@ dmidecode
 evince
 expac
 file-roller
-#filezilla
+filezilla
 git
 gksu
 glances
@@ -454,7 +454,7 @@ peek
 pulseaudio-equalizer-ladspa
 python-pywal
 screenkey
-sublime-text-dev
+#sublime-text-dev
 temps
 the_platinum_searcher-bin
 tmux
@@ -619,3 +619,9 @@ squashfs-tools
 plasma-framework
 hwinfo
 qt5-xmlpatterns
+
+#kifni41
+docker
+mysql-workbench
+terminator
+transmission-gtk

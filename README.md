@@ -4,9 +4,12 @@
 
 	git clone https://github.com/arcolinuxb/arco-openbox
 
-# Follow installation tutorials on
+# Step by Step
 
-https://arcolinuxb.com
+- Clone
+- Edit file archiso/packages.x86_64 to add or drop apps to be included in the iso
+- Run : installation-scripts/30-build-the-iso-local-v3.sh
+
 
 # Websites
 
